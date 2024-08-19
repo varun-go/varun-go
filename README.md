@@ -7,13 +7,17 @@ I am a graduate student in chemical engineering at the University of Minnesota -
 ## 📫 How to reach me
 
 - 📧 Email: gopal145[at]umn[dot]edu
-- 💼 LinkedIn:https://www.linkedin.com/in/varun--gopal
+- 💼 LinkedIn: https://www.linkedin.com/in/varun--gopal
 
 ## 🛠️ Tech & Tools
 
 MD Engines:
 - GROMACS
 - OpenMM
+
+MD-related Tools:
+- MDAnalysis
+- Plumed
 
 Programming Languages:
 - Python
