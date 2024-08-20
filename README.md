@@ -1,4 +1,4 @@
-Hi, my name is Varun Gopal and welcome to my GitHub profile! 
+Hi, my name is Varun Gopal. Welcome to my GitHub profile! 
 
 ## 🔍 About Me
 
@@ -14,6 +14,12 @@ I am a graduate student in chemical engineering at the University of Minnesota -
 MD Engines:
 - GROMACS
 - OpenMM
+
+Models:
+- DeepMD
+- ANI
+- Martini 2 & 3
+- SIRAH
 
 MD-related Tools:
 - MDAnalysis
