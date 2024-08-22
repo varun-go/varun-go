@@ -23,8 +23,13 @@ MD-related Tools:
 - MDAnalysis
 - Plumed
 
-Programming Languages:
+Programming:
 - Python
+- Shell
+
+HPC:
+- Slurm
+- PBS
 
 <!-- ## 📊 GitHub Stats
 
