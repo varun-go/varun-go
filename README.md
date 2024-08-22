@@ -16,10 +16,8 @@ MD Engines:
 - OpenMM
 
 Models:
-- DeepMD
-- ANI
-- Martini 2 & 3
-- SIRAH
+- Machine-learned potentials: DeepMD, ANI
+- Coarse-grained potentials: Martini 2 & 3, SIRAH
 
 MD-related Tools:
 - MDAnalysis
