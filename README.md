@@ -24,8 +24,8 @@ MD-related Tools:
 - Plumed
 
 Programming:
-- Python
-- Shell
+- Languages: Python, Shell
+- Concepts: Functional program, OOP
 
 HPC:
 - Slurm
