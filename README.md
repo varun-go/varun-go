@@ -1,8 +1,6 @@
-Hi, my name is Varun Gopal. Welcome to my GitHub profile! 
-
 ## 🔍 About Me
 
-I am a graduate student in chemical engineering at the University of Minnesota - Twin Cities. My research work is at the intersection of computational chemistry and machine learning. Curently, I am studying the behavior of small molecules, proteins, and enzymes using molecular dynamics simulations. Recently, I have been exploring the applications of machine learning in this area - such as through machine learning interatomic potentials. 
+Hi, my name is Varun Gopal! I am a graduate student in chemical engineering at the University of Minnesota - Twin Cities. My research work is at the intersection of computational chemistry and machine learning. Curently, I am studying the behavior of small molecules, proteins, and enzymes using molecular dynamics simulations. Recently, I have been exploring the applications of machine learning in this area - such as through machine learning interatomic potentials. 
 
 ## 📫 How to reach me
 
