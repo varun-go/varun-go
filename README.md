@@ -4,7 +4,7 @@ Hi, my name is Varun Gopal! I am a graduate student in chemical engineering at t
 
 ## Open to work
 
-I am currently searching for a full-time position. I prefer to work at the intersection of data science and chemistry/chemical engineering, but I am also open to other industries. If you think my skillset would overlaps well with an open position, please feel free to reach out to me at!
+I am currently searching for a full-time position. I prefer to work at the intersection of data science and chemistry/chemical engineering, but I am also open to other industries. If you think my skill set overlaps well with an open position, please feel free to contact me!
 
 ## 📫 How to reach me
 
