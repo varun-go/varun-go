@@ -6,6 +6,17 @@ Hi, my name is Varun Gopal! I am a graduate student in chemical engineering at t
 
 I am currently searching for a full-time position. I prefer to work at the intersection of data science and chemistry/chemical engineering, but I am also open to other industries. If you think my skill set overlaps well with an open position, please feel free to contact me!
 
+## Projects 
+
+1. Solvent-Inclusive ML/MM simulations
+> V. Gopal, C. Kirkvold, A. Gordon, J. Goodpaster, and S. Sarupria.  
+Solvent-Inclusive ML/MM Simulations: Assessments of Structural, Dynamical, and Thermodynamic Accuracy.
+*ChemRxiv* (2025).  
+[Link pending ChemRxiv approval]
+
+*Associated code available at:* [GitHub Repository](https://github.com/SAMPEL-Group/solvent-inclusive-mlmm/tree/main)
+
+
 ## 📫 How to reach me
 
 - 📧 Email: gopal145[at]umn[dot]edu
