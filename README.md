@@ -9,7 +9,7 @@ I am currently searching for a full-time position. I prefer to work at the inter
 ## Projects 
 
 1. Solvent-Inclusive ML/MM simulations
-> Gopal V, Kirkvold C, Gordon A, Goodpaster J, Sarupria S. Solvent-Inclusive ML/MM Simulations: Assessments of Structural, Dynamical, and Thermodynamic Accuracy. ChemRxiv. 2025; doi:[10.26434/chemrxiv-2025-dlr6c](https://doi.org/10.26434/chemrxiv-2025-dlr6c)
+> Gopal V, Kirkvold C, Gordon A, Goodpaster J, Sarupria S. Solvent-Inclusive ML/MM Simulations: Assessments of Structural, Dynamical, and Thermodynamic Accuracy. JCIM (*accepted*). 2025; doi:[10.26434/chemrxiv-2025-dlr6c](https://doi.org/10.26434/chemrxiv-2025-dlr6c)
 
 *Associated code available at:* [GitHub Repository](https://github.com/SAMPEL-Group/solvent-inclusive-mlmm/tree/main)
 
